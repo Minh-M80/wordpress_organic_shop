@@ -69,18 +69,18 @@ Phân công dựa trên các thành phần chính trong `wp-content/plugins`, ch
 2. Truy cập project bằng trình duyệt theo địa chỉ local (ví dụ: `http://localhost/wordpress_organic_shop`).
 3. Đăng nhập trang quản trị WordPress tại `/wp-admin`.
 
-## 9. Tài khoản demo (nếu có)
+## 9. Tài khoản demo 
 - Customer:
-  - Username: 
-  - Password: 
+  - Username: test
+  - Password: test123
 - Admin:
-  - Username: 
-  - Password: 
+  - Username: admin
+  - Password: admin@123
 
 ## 10. Hình ảnh minh họa hệ thống
 Thư mục chứa hình ảnh: `img/`
 
-Bạn thêm ảnh minh họa vào thư mục `img` và cập nhật vào README theo mẫu:
+
 
 ```markdown
 ![Trang chủ](img/homepage.png)
@@ -90,7 +90,7 @@ Bạn thêm ảnh minh họa vào thư mục `img` và cập nhật vào README 
 ```
 
 ## 11. Link video demo
-- 
+- https://drive.google.com/drive/folders/1LA7ttCE3npx-2ML7xqx3a4vLbuLtnp2e?usp=sharing
 
-## 12. Link online đã deploy (nếu có)
+## 12. Link online đã deploy 
 - organicshop.infinityfree.me
