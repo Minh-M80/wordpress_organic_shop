@@ -33,7 +33,7 @@ Phân công dựa trên các thành phần chính trong `wp-content/plugins`, ch
 - Quản lý và tích hợp plugin `jetpack`.
 - Quản lý và tích hợp plugin `merchant`.
 
-### Thành viên 2: Vũ Minh Thành
+### Thành viên 2: Ngô Đức Dũng
 - Quản lý và tích hợp plugin `momo-sandbox-for-woocommerce`.
 - Quản lý và tích hợp plugin `php`.
 - Quản lý và tích hợp plugin `pinterest-for-woocommerce`.
@@ -41,7 +41,7 @@ Phân công dựa trên các thành phần chính trong `wp-content/plugins`, ch
 - Quản lý và tích hợp plugin `reddit-for-woocommerce`.
 - Quản lý và tích hợp plugin `snapchat-for-woocommerce`.
 
-### Thành viên 3: Ngô Đức Dũng
+### Thành viên 3: Vũ Minh Thành
 - Quản lý và tích hợp plugin `vietqr`.
 - Quản lý và tích hợp plugin `woo-chat-support`.
 - Quản lý và tích hợp plugin `woocommerce`.
