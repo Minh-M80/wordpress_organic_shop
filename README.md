@@ -80,14 +80,10 @@ Phân công dựa trên các thành phần chính trong `wp-content/plugins`, ch
 ## 10. Hình ảnh minh họa hệ thống
 Thư mục chứa hình ảnh: `img/`
 
-
-
-```markdown
 ![Trang chủ](img/homepage.png)
 ![Trang sản phẩm](img/products.png)
 ![Giỏ hàng](img/cart.png)
 ![Trang quản trị](img/admin-dashboard.png)
-```
 
 ## 11. Link video demo
 - https://drive.google.com/drive/folders/1LA7ttCE3npx-2ML7xqx3a4vLbuLtnp2e?usp=sharing
